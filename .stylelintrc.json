@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "stylelint-config-recommended",
+    "stylelint-config-tailwindcss",
+    "stylelint-config-clean-order"
+  ],
+  "rules": {
+    "at-rule-no-deprecated": null
+  }
+}
